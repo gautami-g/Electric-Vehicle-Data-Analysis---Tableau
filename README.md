@@ -44,3 +44,43 @@ Calculate the percentage of the PHEVs relative to the total number of electic ve
 ## 5. Total Vehicles by Model:
 1. Visualization:Grid View
 2. Description: Highlight the top 10 electric models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
+
+---
+## Key Business Insights:
+**1. EV Growth Trend:**
+The number of registered EVs has significantly increased from 796 in 2011 to 37,079 in 2023.
+A sharp increase is observed from 2017 onwards, with the highest surge in 2022 (27,799 EVs) and 2023 (37,079 EVs).
+This suggests a strong market shift toward EV adoption in recent years.
+
+**2. Top EV Brands:**
+Tesla dominates the market with 68,943 registered vehicles, followed by:
+Nissan (13,497 EVs)
+Chevrolet (12,025 EVs)
+Ford (7,601 EVs)
+BMW, Kia, Toyota, and Volkswagen are also key players.
+
+**3. Average Electric Range Over Time:**
+The average range of EVs has improved significantly:
+2011: ~70 miles
+2015: ~98 miles
+2018: 156 miles
+2020: 240 miles
+However, data from 2021 onwards shows a sharp decline, possibly due to an increase in plug-in hybrid EVs (PHEVs) with lower battery ranges.
+
+**4. Popular EV Models:**
+The Tesla Model Y (28,502 EVs) and Model 3 (27,709 EVs) are the most popular choices.
+Other notable models:
+Nissan Leaf (13,187 EVs)
+Tesla Model S (7,611 EVs)
+Chevy Bolt EV (5,733 EVs)
+Tesla Model X, Chevy Volt, VW ID.4, and Kia Niro are also widely used.
+
+
+## Business Implications:
+✅ Market Expansion: The EV industry is experiencing rapid growth, particularly after 2017. Companies should invest in charging infrastructure and battery technology.
+
+✅ Tesla Dominance: Tesla holds a strong market share, but competition from Nissan, Chevrolet, and Ford is growing. New entrants need differentiation strategies.
+
+✅ Range Improvement: Battery technology improvements are crucial, as consumers prefer longer-range EVs.
+
+✅ Shifting Preferences: The decline in average range in recent years may indicate a shift towards PHEVs or more affordable short-range EVs.
